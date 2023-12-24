@@ -1,0 +1,45 @@
+.container4{
+    width: 500px;
+    height: 530px;
+    background-color: blanchedalmond;
+    margin-left: 380px;
+    margin-top:50px ;
+}
+#tag{
+    margin-left: 190px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+#container5
+{
+    margin-top: -10px;
+    margin-left: 50px;
+}
+#floatingInput
+{
+    width: 400px;
+}
+#floatingPassword
+{
+    width: 400px;
+}
+#submit
+{
+    margin-top: 30px;
+    margin-left: 210px;
+}
+#submit:disabled 
+{
+    color: black !important;
+    background-color: green !important;
+}
+.container6{
+    margin-left: 80px;
+    margin-top: 15px;
+}
+.container7{
+    text-align: center;
+}
+#tag1{
+    color:red;
+}
